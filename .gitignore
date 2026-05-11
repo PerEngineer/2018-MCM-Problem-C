@@ -1,0 +1,17 @@
+__pycache__/
+.tex-cache/
+*.pyc
+
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Local editor files
+.vscode/
+.idea/
+*.tmp
